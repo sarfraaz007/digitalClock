@@ -1,0 +1,18 @@
+body {
+    background:rgb(216, 162, 180);}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color:white;
+    font-size: 60px;
+    font-family:Times New Roman;
+    letter-spacing: 7px;
+   border:2px solid white;
+   border-radius: 5px;
+   padding:2px 20px;
+
+
+}
